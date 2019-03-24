@@ -1,1 +1,3 @@
 "Name: FerozDin"  
+Email: feroz.din@ucp.edu.pk
+Faculty: Foit
